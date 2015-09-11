@@ -43,6 +43,11 @@ You can put blocks of code in here like this:
 
 ###Alternate Designs
 
+Here is another look at my design:
+
+![This is cool, too bad you can't see it](online-shopping-uml-example.png "An alternate design")
+
+
 Code Masterpiece
 ================
 
